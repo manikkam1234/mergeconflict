@@ -1,1 +1,1 @@
-hyderabad
+city:bangalore
